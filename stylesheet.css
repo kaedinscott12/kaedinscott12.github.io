@@ -44,3 +44,7 @@
         grid-template-columns: 100%;
     }
 }
+
+.body {
+    background: beige;
+}
